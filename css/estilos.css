@@ -1,0 +1,149 @@
+/*Hoja de Estilos*/
+
+/*Fondo*/
+
+body {
+    background-color: lightgray;
+}
+
+/*Control Audio*/
+
+audio {
+    margin-left: 900px;
+}
+
+/*Título Principal*/
+
+h1 {
+    font-family: 'Unbounded', cursive;
+    margin-top: 20px;
+    margin-left: 500px;
+    margin-bottom: 50px;
+    margin-right: 400px;
+    color: chocolate;
+}
+
+/*Imagen al frente*/
+
+#capa1 {
+    position: absolute;
+    z-index: 1
+}
+
+/*Redondea Foto*/
+
+img {
+    margin-left: 550px;
+    margin-top: 10px;
+    border-radius: 50%;
+}
+
+/*Nombre Fondo*/
+
+marca_agua {
+    color: rgb(197, 228, 238);
+    margin-left: 230px;
+    font-size: 300px;
+}
+
+/*Subtitulos*/
+
+h2 {
+    color: white;
+    margin-left: 100px;
+    font-style: italic;
+    background-color: rgb(180, 78, 180);
+    width: 1100px;
+}
+
+/*Caja*/
+
+#caja {
+    width: 1100px;
+    height: 280px;
+    background-color: lightblue;
+    margin-left: 100px;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 2px solid black;
+    text-align: justify;
+}
+
+/*Datos Personales*/
+
+h4 {
+    font-family: 'Roboto', sans-serif;
+    text-align: justify;
+    margin-left: 40px;
+    width: 810px;
+}
+
+span {
+    color: lightgray;
+}
+
+.destacados {
+    color: blue;
+    font-weight: bold;
+    font-style: italic;
+    font-size: large;
+}
+
+/*LinkedIn*/
+
+h3 {
+    margin-left: 900px;
+}
+
+.mediano {
+    color: blue;
+    font-size: 50px;
+}
+
+/*Párrafos*/
+
+p {
+    font-family: 'Roboto', sans-serif;
+    text-align: justify;
+    margin-left: 140px;
+    width: 900px;
+}
+
+/*Subtitulo Subrayado*/
+
+subtitulo_sub {
+    color: rgb(67, 50, 141);
+    margin-left: 120px;
+    font-size: x-large;
+    text-decoration: underline rgb(67, 50, 141);
+}
+
+/*Listas*/
+
+li {
+    margin-left: 120px;
+}
+
+/*Botón*/
+
+button {
+    color: white;
+    margin-left: 1070px;
+    background-color: blueviolet;
+    width: 130px;
+    height: 35px;
+}
+
+.click {
+    color: grey;
+    font-style: italic;
+    margin-left: 1080px;
+    font-size: small;
+}
+
+bonus {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    margin-left: 140px;
+    width: 900px;
+}
